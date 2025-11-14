@@ -1,0 +1,43 @@
+HIDAYA TABBENE
+Ariana, Tunis | tabbenehidaya2004@gmail.com | Github | LinkedIn | Portfolio | 23 208 595
+
+WEB & MOBILE DEVELOPER
+
+PROFIL
+Étudiante en informatique passionnée par le développement web et mobile, avec un intérêt marqué pour le design UX/UI.
+Je cherche un stage PFE alliant innovation, technologie et design pour créer des solutions à fort impact.
+
+FORMATION
+Licence en Science de l’Informatique (2023-2026)
+Institut supérieur de l'informatique - ISI (Ariana)
+Parmi les 3 majeurs de la promotion avec mention Très Bien
+
+EXPÉRIENCE PROFESSIONNELLE
+Octobre 2025 – Développeuse Logiciel, Projet Planning Surveillance – ISI Ariana
+- Développement d’un algorithme de planification automatique intégrant les disponibilités, préférences et contraintes des enseignants.
+- Développement Frontend des interfaces de l’application.
+- Réalisation du design complet sur Figma et participation aux tests.
+
+Juillet 2024 – Août 2024 – Stagiaire Front-End & UX Designer, LesCy-Solution
+- Développement front-end d’une plateforme de gestion pour un centre de beauté.
+- Interfaces : calendrier, profils clients, facturation.
+- Design complet moderne, responsive et aligné sur l’identité du client.
+Technologies : Flutter, Dart, Figma
+
+PROJETS
+MYOR : Application mobile Flutter de création de CV avec IA. 4000+ téléchargements sur Play Store.
+Dashboard-MakerYR : Dashboard desktop pour suivi d’activité MyOR (HTML, CSS, JS).
+E-Commerce Sneakers : Site e-commerce moderne (HTML, CSS, JS, PHP).
+IsiStudy : Application Android (Java/XML) avec Pomodoro et gestion de tâches.
+CarRent : Application desktop Java pour gestion de location de voitures.
+
+COMPÉTENCES TECHNIQUES
+Langages : Dart, Java, Python, SQL, JavaScript, PHP
+Frameworks & Outils : Flutter, Figma, MVC, React
+Soft Skills : Créativité, Travail en équipe, Organisation, Adaptabilité, Communication, Sens du design, Curiosité technique
+
+LIENS
+https://github.com/hidaya-coder
+https://www.linkedin.com/in/hidayatabbene/
+https://cv89hyzxpwyj.trickle.host/
+https://play.google.com/store/apps/details?id=com.vortexLc.myor
