@@ -48,7 +48,7 @@ A modern, cute, and innovative portfolio website for a Web & Mobile Developer. T
 ## 📁 File Structure
 
 ```
-hadhoudtii/
+hadhouda/
 ├── index.html      # Main HTML structure
 ├── styles.css      # All styling and animations
 ├── script.js       # Interactive features and animations
